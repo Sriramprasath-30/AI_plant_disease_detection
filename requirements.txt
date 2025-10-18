@@ -1,0 +1,22 @@
+# Core libraries
+numpy
+pandas
+matplotlib
+opencv-python
+tensorflow
+keras
+scikit-learn
+
+# IoT and communication
+pyserial
+requests
+telepot
+gpiozero
+RPi.GPIO
+
+# Image processing
+Pillow
+
+# Optional (for Raspberry Pi + debugging)
+imutils
+flask
