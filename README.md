@@ -150,5 +150,3 @@ A smart, integrated system leveraging **IoT sensors** and **Machine Learning** t
                     │  👨‍🌾 Farmer    │
                     └───────────────┘
 ```
-
-### Data Flow
